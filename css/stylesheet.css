@@ -41,7 +41,6 @@ p {
     color: #9AA7B7; 
     margin-top: -5px;
     padding-top: 30px;
-    padding-bottom: 0px;
     
 }
 .img{
@@ -138,9 +137,11 @@ h2{
     padding-bottom: 5px;
     
 }
-
 .img{
     width: 100%;
+}
+.clear {
+    clear: both;
 }
 footer{
     text-align: center;
