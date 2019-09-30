@@ -137,8 +137,12 @@ h2{
     padding-bottom: 5px;
     
 }
-.img{
+img{
     width: 100%;
+}
+
+.caption {
+    
 }
 .clear {
     clear: both;
