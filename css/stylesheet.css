@@ -1,0 +1,155 @@
+.container {
+    width: 1080px;
+    margin: 0 auto;
+    background-color: #9AA7B7;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    float: right;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+.nav_bg {
+    height: 100px;
+    background-color: #393B51;
+}
+
+.textbg {
+    width: 1080px;
+    height: 100px;
+    background-color: aqua
+}
+.menu p {
+    color: #9AA7B7; 
+}
+.intro{
+    width: 100%;
+}
+
+.taxanomy {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px; 
+    width: 1080px;
+    height: 150px;
+    background-color: #393B51;
+    color: #9AA7B7; 
+    margin-top: -5px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    
+}
+.img{
+    width: 100%;
+}
+
+.elephant{
+    width: 1080px; 
+    height: auto;
+}
+
+
+.videowrapper{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #9AA7B7;
+}
+.h1{
+    font-size: 13px;
+    font-family: 'Raleway', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+     
+}
+.h2{
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+    margin-right: 50px;
+    margin-left: 540px;
+    
+}
+.text_two_col{
+    width: 800px;
+    margin-top: 50px;
+    column-count: 2;
+    column-gap: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.behavior {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.two_400{
+    width: 380px;
+    padding: 10px;
+    float: left;
+    font-size: 20px;
+     font-family: 'Raleway', sans-serif;
+    color: #393B51;
+}
+.clear {
+    clear: both;
+}
+
+.img{
+    width: 100%;
+    
+}
+.hover_img{
+    width: 1080px; 
+    height: auto;
+    filter: grayscale(0%)
+}
+.hover_img:hover {
+    filter:grayscale(70%)
+}
+.ecology{
+    width: 800px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    font-size:20px;
+    color: #393B51;
+    font-family: 'Raleway', sans-serif;
+    
+    
+}
+.two_600{
+    width: 800px;
+    column-count: 2;
+    column-gap: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #393B51;
+    padding-bottom: 5px;
+    
+}
+
+.img{
+    width: 100%;
+}
+footer{
+    text-align: center;
+    text-transform: capitalize;
+    background-color: #393B51;
+}
+footer p {
+    color: #9AA7B7; 
+    padding:30px;
+    width: 1080px;
+    font-family: 'Raleway', sans-serif;
+}
