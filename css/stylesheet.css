@@ -59,7 +59,7 @@ p {
     margin-right: auto;
     background-color: #9AA7B7;
 }
-.h1{
+h1{
     font-size: 13px;
     font-family: 'Raleway', sans-serif;
     margin-left: auto;
@@ -140,6 +140,7 @@ img{
 }
 
 .caption {
+    display: block;
     
 }
 .clear {
